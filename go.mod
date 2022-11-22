@@ -1,3 +1,3 @@
-module github.com/prpateldev/gotoolkit
+module github.com/piyyushhpatel/gotoolkit
 
 go 1.18

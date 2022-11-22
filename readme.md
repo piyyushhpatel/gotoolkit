@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/prpateldev/gotoolkit`
+`go get -u github.com/piyyushhpatel/gotoolkit`
